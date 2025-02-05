@@ -1,3 +1,3 @@
-## Files uploaded for the initial submission and revision to a journal
+## Files uploaded for the initial submission and revisions to a journal
 The R notebook html files and core input files have been uploaded.
-Due to its size, the R notebook HTML file cannot be directly opened on this website. Please download the file and open it using a web browser. We have verified that the intended presentation is correctly displayed in Microsoft Edge.
+Due to its size, the R notebook HTML file cannot be directly opened on this website. Please download the file and open it using a web browser. We have verified that the intended presentation is correctly displayed in Microsoft Edge. For html file, we uploaded three versions; the first version corresponds to the whole results at the moment of the inital submission to a journal while other two versions include the sections needed to be modified or added at two times of revision processes.
